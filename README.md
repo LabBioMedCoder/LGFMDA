@@ -23,3 +23,6 @@ Fig. 1. The flowchart of LGFMDA: (A)Constructing the miRNA-disease attributed bi
 * utils_new: Data reading and construction of attribute bipartite graph
 * model_gt_fang_hmdd32_lpe: The overall implementation code of the LGFMDA
 * train2_hmdd32_lpe: Training of the model
+
+# Run
+ * train2_hmdd32_lpe
