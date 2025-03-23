@@ -7,7 +7,6 @@ Requirements：
 	torch == 1.9.0+cu111 
 	numpy == 1.19.5
 	dgl-cu111 == 0.6.1
-	matplotlib == 3.3.4
 
 Data：
 	D_GIP3.2: Gaussian interaction profile kernel similarity of diseases
