@@ -16,7 +16,7 @@ Fig. 1. The flowchart of LGFMDA: (A)Constructing the miRNA-disease attributed bi
  ``disease semantic similarity_3.2：``semantic similarity of diseases\
  ``M_GIP3.2：`` Gaussian interaction profile kernel similarity of miRNAs\
  ``SeqSim3.2：`` miRNA sequence similarity\
- ``miRNA fuctional similarity_3.2：`` miRNA fuctional similarity\
+ ``miRNA fuctional similarity_3.2：`` miRNA fuctional similarity
 
 
 # Resources
